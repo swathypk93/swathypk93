@@ -29,7 +29,6 @@
 
 (Click project links once uploaded)
 
-Projects
 Target Brazil E-commerce Analysis
  Data: 100K+ orders
  
