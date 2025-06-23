@@ -21,7 +21,7 @@
 - 🧪 **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels  
 - 📊 **Visualization**: Matplotlib, Seaborn, Plotly, Tableau  
 - 🧼 **Data Cleaning**: Feature Engineering, Handling Missing Values  
-- 📚 **Other**: Git, Excel,
+- 📚 **Other**: Git, Excel
 
 ---
 
