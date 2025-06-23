@@ -9,7 +9,7 @@
 ### 👩‍💻 About Me
 
 🎓 M.Tech in Embedded Systems from APJ Abdul Kalam Technological University  
-📊 Scaler DSML Program Graduate — trained in Python, SQL, EDA, Statistics,Tableu,Excell  & Business Case Solving  
+📊 Scaler DSML Program Graduate — trained in Python, SQL, EDA, Statistics,Tableu,Excel  & Business Case Solving  
 🧑‍🏫 Former Assistant Professor — taught VLSI Circuit Design & Renewable Energy Systems  
 🎯 Transitioning into Data Analytics with a passion for solving real-world business problems  
 
@@ -32,6 +32,7 @@
 Projects
 Target Brazil E-commerce Analysis
  Data: 100K+ orders
+ 
 ▪ Analyzed 100K+ orders to uncover trends in sales, payments, and delivery across 27 states.
 ▪ Identified 137% YoY rise in order value and seasonal dips in October.
 ▪ Uncovered delivery delays vs. estimates; flagged top/lowest-performing regions.
@@ -39,6 +40,7 @@ Target Brazil E-commerce Analysis
 ▪ Recommended targeting underperforming states to improve revenue coverage.
 
 Netflix Content Analysis & Visualization
+
 ▪ Analyzed 8,800+ Netflix titles to extract insights on content type, genres, duration, ratings, and release trends.
 ▪ Cleaned and transformed multi-label columns (cast, genre, country) for deeper audience and market analysis.
 ▪ Identified dominance of TV-MA content and rising shift toward TV shows post-2015.
@@ -47,6 +49,7 @@ Netflix Content Analysis & Visualization
 
 Yulu Bike Demand & Hypothesis Testing
  Data: 10K+ records
+ 
 ▪ Assessed rental trends by season, weather, and weekdays using EDA and statistical tests (t-test, ANOVA,
 Chi-square).
 Identified fall and clear weather days as peak periods; working day impact was minimal.
