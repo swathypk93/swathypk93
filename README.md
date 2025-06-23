@@ -30,7 +30,8 @@
 (Click project links once uploaded)
 
 Target Brazil E-commerce Analysis
- Data: 100K+ orders
+
+Data: 100K+ orders
  
 ▪ Analyzed 100K+ orders to uncover trends in sales, payments, and delivery across 27 states.
 
@@ -55,7 +56,8 @@ Netflix Content Analysis & Visualization
 ▪ Recommended data-backed genre focus by region and release timing for audience engagement.
 
 Yulu Bike Demand & Hypothesis Testing
- Data: 10K+ records
+
+Data: 10K+ records
  
 ▪ Assessed rental trends by season, weather, and weekdays using EDA and statistical tests (t-test, ANOVA,
 Chi-square).
