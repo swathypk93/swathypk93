@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Swathy PK 👋</h1>
 
 <p align="center">
-  🌟 Aspiring Data Analyst | Python • SQL • EDA • Excel • Tableau 🌟  
+  🌟 Aspiring Data Scientist | Python • SQL • EDA • Excel • Tableau 🌟  
 </p>
 
 ---
