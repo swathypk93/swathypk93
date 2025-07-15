@@ -100,7 +100,7 @@ buyer conversion.
 
 - 🔗 (https://www.linkedin.com/in/swathy-p-k-baa26a116/)
 - 📬 Email: swathypk93@email.com  
-- 📍 Location:Sarjapur road,Bangalore, India | Open to Remote ,Hybrid,WFO  Roles
+- 📍 Location:Bangalore,Karnataka,India | Open to Remote ,Hybrid,WFO  Roles
   
 
 ---
