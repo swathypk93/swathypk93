@@ -19,7 +19,7 @@
 
 - 💻 **Languages**: Python, SQL  
 - 🧪 **Data Analysis**: Pandas, NumPy, SciPy, Statsmodels  
-- 📊 **Visualization**: Matplotlib, Seaborn, Plotly, Tableau  
+- 📊 **Visualization**: Matplotlib, Seaborn, Tableau  
 - 🧼 **Data Cleaning**: Feature Engineering, Handling Missing Values  
 - 📚 **Other**: Git, Excel
 
@@ -27,7 +27,6 @@
 
 ### 📌 Featured Projects
 
-(Click project links once uploaded)
 
 Target Brazil E-commerce Analysis
 
@@ -87,8 +86,8 @@ Aerolift Treadmill Buyer Analysis
 
 ▪ Recommended tiered pricing, gender-focused ads, and fitness app tie-ups to increase product alignment and
 buyer conversion.
-
-
+- 🔗 https://drive.google.com/file/d/1ZIrRZ9BN-IIeRnz_leY66gRuJUPsjWyl/view?usp=drive_link
+  
 ### 📈 What I’m Working On
 
 - Creating more domain-specific case studies  
